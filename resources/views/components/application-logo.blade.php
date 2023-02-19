@@ -1,0 +1,1 @@
+<img src="{{asset('logo/eshuzo.png')}}" width="150px">
